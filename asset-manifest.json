@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//github.com/bobbyatsegment/second-test-source/static/css/main.6dea0f05.chunk.css",
+    "main.js": "//github.com/bobbyatsegment/second-test-source/static/js/main.308dcb9c.chunk.js",
+    "main.js.map": "//github.com/bobbyatsegment/second-test-source/static/js/main.308dcb9c.chunk.js.map",
+    "runtime-main.js": "//github.com/bobbyatsegment/second-test-source/static/js/runtime-main.c00ae0d5.js",
+    "runtime-main.js.map": "//github.com/bobbyatsegment/second-test-source/static/js/runtime-main.c00ae0d5.js.map",
+    "static/js/2.6737aebd.chunk.js": "//github.com/bobbyatsegment/second-test-source/static/js/2.6737aebd.chunk.js",
+    "static/js/2.6737aebd.chunk.js.map": "//github.com/bobbyatsegment/second-test-source/static/js/2.6737aebd.chunk.js.map",
+    "static/js/3.aa4f058a.chunk.js": "//github.com/bobbyatsegment/second-test-source/static/js/3.aa4f058a.chunk.js",
+    "static/js/3.aa4f058a.chunk.js.map": "//github.com/bobbyatsegment/second-test-source/static/js/3.aa4f058a.chunk.js.map",
+    "index.html": "//github.com/bobbyatsegment/second-test-source/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "//github.com/bobbyatsegment/second-test-source/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6737aebd.chunk.js.LICENSE.txt": "//github.com/bobbyatsegment/second-test-source/static/js/2.6737aebd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c00ae0d5.js",
+    "static/js/2.6737aebd.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.308dcb9c.chunk.js"
+  ]
+}
