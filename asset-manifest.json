@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bobbyatsegment/second-test-source/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/bobbyatsegment/second-test-source/static/js/main.308dcb9c.chunk.js",
-    "main.js.map": "/bobbyatsegment/second-test-source/static/js/main.308dcb9c.chunk.js.map",
-    "runtime-main.js": "/bobbyatsegment/second-test-source/static/js/runtime-main.dba0746d.js",
-    "runtime-main.js.map": "/bobbyatsegment/second-test-source/static/js/runtime-main.dba0746d.js.map",
-    "static/js/2.6737aebd.chunk.js": "/bobbyatsegment/second-test-source/static/js/2.6737aebd.chunk.js",
-    "static/js/2.6737aebd.chunk.js.map": "/bobbyatsegment/second-test-source/static/js/2.6737aebd.chunk.js.map",
-    "static/js/3.aa4f058a.chunk.js": "/bobbyatsegment/second-test-source/static/js/3.aa4f058a.chunk.js",
-    "static/js/3.aa4f058a.chunk.js.map": "/bobbyatsegment/second-test-source/static/js/3.aa4f058a.chunk.js.map",
-    "index.html": "/bobbyatsegment/second-test-source/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/bobbyatsegment/second-test-source/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.6737aebd.chunk.js.LICENSE.txt": "/bobbyatsegment/second-test-source/static/js/2.6737aebd.chunk.js.LICENSE.txt"
+    "main.css": "/second-test-source/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/second-test-source/static/js/main.308dcb9c.chunk.js",
+    "main.js.map": "/second-test-source/static/js/main.308dcb9c.chunk.js.map",
+    "runtime-main.js": "/second-test-source/static/js/runtime-main.ff52abc0.js",
+    "runtime-main.js.map": "/second-test-source/static/js/runtime-main.ff52abc0.js.map",
+    "static/js/2.6737aebd.chunk.js": "/second-test-source/static/js/2.6737aebd.chunk.js",
+    "static/js/2.6737aebd.chunk.js.map": "/second-test-source/static/js/2.6737aebd.chunk.js.map",
+    "static/js/3.aa4f058a.chunk.js": "/second-test-source/static/js/3.aa4f058a.chunk.js",
+    "static/js/3.aa4f058a.chunk.js.map": "/second-test-source/static/js/3.aa4f058a.chunk.js.map",
+    "index.html": "/second-test-source/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/second-test-source/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6737aebd.chunk.js.LICENSE.txt": "/second-test-source/static/js/2.6737aebd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dba0746d.js",
+    "static/js/runtime-main.ff52abc0.js",
     "static/js/2.6737aebd.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.308dcb9c.chunk.js"
